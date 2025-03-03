@@ -16,6 +16,6 @@ Este proyecto es una web de ejemplo creada con Django para gestionar cursos onli
 
 
  ##  Funcionalidades
-Agregar Curso: Permite agregar un nuevo curso.
-Buscar Curso: Permite buscar cursos por título o descripción.
-Ver Cursos: Muestra todos los cursos disponibles
+- Agregar Curso: Permite agregar un nuevo curso.
+- Buscar Curso: Permite buscar cursos por título o descripción.
+- Ver Cursos: Muestra todos los cursos disponibles
